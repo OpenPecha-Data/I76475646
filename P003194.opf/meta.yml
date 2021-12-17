@@ -1,7 +1,7 @@
 id: P003194
 initial_creation_type: ocr
 created_at: 29/03/2020
-last_modified_at: 24/11/2021
+last_modified_at: 2021-12-17 10:46:36.582618
 source_metadata:
   id: bdr:W19884
   title: གསུང་འབུམ། རིག་འཛིན་གར་གྱི་དབང་ཕྱུག
@@ -37,3 +37,5 @@ source_metadata:
       volume_number: 5
       total_pages: 590
       base_file: v005.txt
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: true
